@@ -5,8 +5,6 @@
 *  Ver :1.0
 */
 
-package pestañas;
-
         import mdlaf.MaterialLookAndFeel;
         import javax.swing.*;
         import javax.swing.border.LineBorder;
